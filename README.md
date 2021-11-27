@@ -1,7 +1,7 @@
-###Mutlithreaded Web Crawler as a Service
+### Mutlithreaded Web Crawler as a Service
 Created using Spring Boot. This web crawler can crawl websites with custom level configurations. As it is built on the concept of multithreading, it can crawl multiple websites simultaneously.
 
-####Steps to start web crawler
+#### Steps to start web crawler
 1. Clone the repository into your local machine. Make sure you have Maven and Java installed
 2. Start the project with following command
 > ./mvnw spring-boot:run
